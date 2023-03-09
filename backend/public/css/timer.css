@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Shantell+Sans&display=swap');
+
+p {
+    text-align: center;
+    
+    font-family: 'Shantell Sans' sans-serif;
+    font-size: 60px;
+    margin: 0px;
+}

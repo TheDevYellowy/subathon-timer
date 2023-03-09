@@ -1,0 +1,13 @@
+{
+  "name": "subathon-timer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TheDevYellowy/subathon-timer.git",
+  "author": "TheDevYellowy <yellowycorn6963@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "ws": "^8.12.1"
+  }
+}
